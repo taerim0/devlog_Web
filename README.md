@@ -16,3 +16,4 @@
 
 ### 아주톤
 
+[링크](https://github.com/taerim0/23-2-Ajouthon_backend) (레포지토리)
