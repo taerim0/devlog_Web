@@ -1,2 +1,10 @@
-# devlog_Web
-about my web develop history
+# Web Develop Timeline
+
+- 2023.07.01. 아주대학교 하계모각소
+- 2023.10.28. 아주톤
+
+-------
+
+### 아주대학교 하계모각소
+
+### 아주톤
