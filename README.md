@@ -1,6 +1,6 @@
 # Web Develop Timeline
 
-- 2023.07.01. [아주대학교 하계모각소] (https://github.com/taerim0/devlog_Web/blob/main/README.md#%EC%95%84%EC%A3%BC%EB%8C%80%ED%95%99%EA%B5%90-%ED%95%98%EA%B3%84%EB%AA%A8%EA%B0%81%EC%86%8C) (웹 개발 시작)
+- 2023.07.01. [아주대학교 하계모각소](https://github.com/taerim0/devlog_Web/blob/main/README.md#%EC%95%84%EC%A3%BC%EB%8C%80%ED%95%99%EA%B5%90-%ED%95%98%EA%B3%84%EB%AA%A8%EA%B0%81%EC%86%8C) (웹 개발 시작)
 - 2023.10.28. [아주톤](https://github.com/taerim0/devlog_Web/blob/main/README.md#%EC%95%84%EC%A3%BC%ED%86%A4)
   
 -------
